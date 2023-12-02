@@ -1,0 +1,75 @@
+
+.h3{
+    font-size: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.container{
+    border: 3px solid black;
+    width: 50vh;
+    background-color: rgb(56, 121, 250);
+    height: 620px;
+    padding: 0px 20px 80px 20px;
+    margin: 20px 600px 0px 600px;
+    border-radius: 20px;
+}
+
+.container .input .inputc{
+    background-color: rgb(255, 255, 255);
+    height: 120px;
+    width: 355px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    border-radius: 10px;   
+    border-color: black;
+}
+
+.btnn1{
+   height: 80px;
+   width: 80px;
+   border-color: white;
+   margin: 4px;
+   background-color: rgb(80, 80, 82);
+   color: white;
+   font-size: 30px;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.btnn2{
+    height: 80px;
+    width: 80px;
+    margin: 4px;
+    background-color: rgb(242, 255, 0);
+    color: rgb(5, 5, 5);
+    font-size: 32px;
+    border-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.btnn3{
+    background-color: gray;
+    height: 80px;
+    width: 80px;
+    margin: 4px;
+    border-color: white;
+    color: white;
+    font-size: 26px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    
+}
+
+.btnnequal{
+    width: 170px;
+    height: 80px;
+    border-color: white;
+    margin: 4px;
+    background-color: rgb(242, 255, 0);
+    color: rgb(5, 5, 5);
+    border-radius: 10px;
+    font-size: 32px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
